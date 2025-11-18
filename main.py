@@ -18,3 +18,6 @@ def dire_bonjour():
 
 print("Hello, Git!")
 dire_bonjour()
+def dire_salut():
+    print("Salut, Git!")
+dire_salut()
